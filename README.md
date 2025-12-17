@@ -78,6 +78,46 @@ A fully functional **calculator** with:
 2. Build the solution
 3. Find the executable at:
 
+   
+### Option 3: Publish Single `.exe`
+Use **Publish** in Visual Studio with:
+- Target: `win-x64`
+- Deployment mode: `Self-contained`
+- Produce single file: ✅
+
+---
+
+## 📂 Project Structure
+
+
+---
+
+## ✅ Assignment Requirements Coverage
+
+| Requirement | Status |
+|------------|--------|
+| while loop | ✅ |
+| Methods with parameters | ✅ |
+| User input handling | ✅ |
+| Arrays / collections | ✅ |
+| Console output formatting | ✅ |
+| Multiple program sections | ✅ |
+
+---
+
+## 👨‍🎓 Author
+
+- **Student Name:** _(Your Name Here)_
+- **Course:** Objective / Programming
+- **Assignment:** Programming Assignment №1
+
+---
+
+## 📄 License
+
+This project is for **educational purposes only**.
+
+
 
 
 
