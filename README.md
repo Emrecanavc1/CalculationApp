@@ -107,7 +107,7 @@ Use **Publish** in Visual Studio with:
 
 ## 👨‍🎓 Author
 
-- **Student Name:** _(Your Name Here)_
+- **Student Name:** _EMRE CAN AVCI_
 - **Course:** Objective / Programming
 - **Assignment:** Programming Assignment №1
 
